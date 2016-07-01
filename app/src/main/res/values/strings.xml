@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FreshMenu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">logout</string>
+    <string name="one">Mains</string>
+    <string name="two">Sides/salads</string>
+    <string name="three">Desserts</string>
+    <string name="font_fontFamily_medium">tab</string>
+</resources>
